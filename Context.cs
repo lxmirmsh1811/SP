@@ -1,23 +1,26 @@
 using System;
 
 namespace SP{
-    class Context{
-        State currentState;
-        public State CurrentState {get; set;}
+    public class Context{
+        public State currentState {get; set;}
+        //public State CurrentState {get; set;}
         // public void setCurrentState(State state){
         //     currentState = state;
         // }
+
+        
 
         public Context(State initialState){
             currentState = initialState;
         }
 
         public void on(){
-            currentState.onNow(this);
+            Console.WriteLine("Calling on");
+            currentState.OnNow(this);
         }
 
         public void off(){
-            currentState.offNow(this);
+            currentState.OffNow(this);
         }
     }
 }

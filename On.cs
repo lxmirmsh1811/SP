@@ -1,10 +1,11 @@
 using System;
 
 namespace SP{
-    class On : State{
-        public void offNow(Context context){
+    public class On : State{
+        public override void OffNow(Context context){
             Console.WriteLine("You are in Off State");
-            context.CurrentState = new Off();
+            // context.CurrentState = new Off();
+            context.currentState = new Off();
         }
     }
 }
