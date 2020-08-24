@@ -1,0 +1,12 @@
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/bin/Debug/netcoreapp3.1/SP.deps.json
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/bin/Debug/netcoreapp3.1/SP.runtimeconfig.json
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/bin/Debug/netcoreapp3.1/SP.runtimeconfig.dev.json
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/bin/Debug/netcoreapp3.1/SP.dll
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/bin/Debug/netcoreapp3.1/SP.pdb
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/obj/Debug/netcoreapp3.1/SP.csprojAssemblyReference.cache
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/obj/Debug/netcoreapp3.1/SP.AssemblyInfoInputs.cache
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/obj/Debug/netcoreapp3.1/SP.AssemblyInfo.cs
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/obj/Debug/netcoreapp3.1/SP.csproj.CoreCompileInputs.cache
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/obj/Debug/netcoreapp3.1/SP.dll
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/obj/Debug/netcoreapp3.1/SP.pdb
+/Users/lakshmiramesh/Documents/Fulda/Study/C#/SP/obj/Debug/netcoreapp3.1/SP.genruntimeconfig.cache
